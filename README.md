@@ -1,3 +1,3 @@
 # EthernautHacks
 
-MY etherNAut hack contracts
+Me Solving ethernaut challenges
