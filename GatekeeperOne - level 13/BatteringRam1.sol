@@ -4,7 +4,7 @@ pragma solidity ^0.8;
 import "./GatekeeperOne.sol";
 
 
-contract BatteringRam {
+contract BatteringRam1 {
     GatekeeperOne public GatekeeperOneContract;
 
     constructor(address _GatekeeperOneContract){
