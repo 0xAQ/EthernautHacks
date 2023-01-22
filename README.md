@@ -7,4 +7,5 @@ the levels which require smart contract have been uploaded to this github repo
 The other levels that needed just the console, its command to solve is displayed in this readme file.
 
 > ### Current lvl:
-> ![level 14 gatekeeper2](https://user-images.githubusercontent.com/88236255/213777875-22a07847-0d44-4ce9-8fa1-a6321a0a7382.jpg)
+> ![level 17 recovery](https://user-images.githubusercontent.com/88236255/213927173-f23634ad-cd0b-448c-8be9-578ec77c924c.jpg)
+
