@@ -7,5 +7,6 @@ the levels which require smart contract have been uploaded to this github repo
 The other levels that needed just the console, its command to solve is displayed in this readme file.
 
 > ### Current lvl:
-> <img width="1050" alt="image" src="https://user-images.githubusercontent.com/88236255/214665424-432fb3e1-1a3a-4273-9c2e-594ebceea724.png">
+> <img width="960" alt="image" src="https://user-images.githubusercontent.com/88236255/215165562-e88f11c3-2621-43a0-b4c6-09c250c21e2b.png">
+
 
